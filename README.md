@@ -1,1 +1,1 @@
-Simple shell project
+#Gates of shell
